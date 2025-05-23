@@ -1,5 +1,4 @@
-# Módulo 1 - Curso de Lógica de Programação (Portugol Studio)
-
+# Módulo 1 - Curso de Lógica de Programação 
 Este repositório contém os códigos exemplos e exercícios realizados no Módulo 1 do curso de Lógica de Programação do IFRS, utilizando a linguagem de pseudocódigo Portugol Studio.
 
 ## Conteúdo
